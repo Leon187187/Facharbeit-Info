@@ -22,11 +22,11 @@
 - **Finanzierung:** Wichtig für mich, weil ich wissen will wodurch sich der Dienst finanziert.
   - **Prüffrage:** Welchen Einfluss hat die Finanzierung auf meine Privatsphäre?
 
-## Ausgewählter Dienst: [Name]
+## Ausgewählter Dienst: Signal
 
-- **Auswahl begründen:** [Warum passt dieser Dienst nach dem Überblick am ehesten zu meinen Kriterien?]
-- **Kriterium 1 / Prüffrage:** [Antwort, soweit belegt]
-- **Kriterium 2 / Prüffrage:** [Antwort, soweit belegt]
-- **Kriterium 3 / Prüffrage:** nicht belegt; [Ort der Suche]
+- **Auswahl begründen:** Ich habe mich für den Messenger Signal entschieden da er nach erstem Überblick meine Nachichten Ende-zu-Ende verschlüsselt und sein Quellcode offen einsehbar ist. 
+- **Ende-zu-Ende Verschlüsselung / Bietet der Dienst standartmäßig Ende-zu-Ende Verschlüsselung an und welche Nachichten werden verschlüsselt?:** [Antwort, soweit belegt]
+- **mgang mit persönlichen Daten / Welche Daten werden über mich gesammelt, wie lange werden diese Daten über mich gespeichert und werden sie eventuell weiter verkauft?:** [Antwort, soweit belegt]
+- **Finanzierung / Welchen Einfluss hat die Finanzierung auf meine Privatsphäre?:** nicht belegt; [Ort der Suche]
 - **Quellen:** [Titel, Anbieter oder Autor](https://beispiel.de), abgerufen am [Datum]
 - **Stand der Angabe:** [Veröffentlichungs-, Änderungs- oder Inkrafttretensdatum, falls wichtig]
