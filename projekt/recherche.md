@@ -25,8 +25,8 @@
 ## Ausgewählter Dienst: Signal
 
 - **Auswahl begründen:** Ich habe mich für den Messenger Signal entschieden da er nach erstem Überblick meine Nachichten Ende-zu-Ende verschlüsselt und sein Quellcode offen einsehbar ist. 
-- **Ende-zu-Ende Verschlüsselung / Bietet der Dienst standartmäßig Ende-zu-Ende Verschlüsselung an und welche Nachichten werden verschlüsselt?:** [Antwort, soweit belegt]
-- **mgang mit persönlichen Daten / Welche Daten werden über mich gesammelt, wie lange werden diese Daten über mich gespeichert und werden sie eventuell weiter verkauft?:** [Antwort, soweit belegt]
-- **Finanzierung / Welchen Einfluss hat die Finanzierung auf meine Privatsphäre?:** nicht belegt; [Ort der Suche]
+- **Ende-zu-Ende Verschlüsselung / Bietet der Dienst standartmäßig Ende-zu-Ende Verschlüsselung an und welche Nachichten werden verschlüsselt?:** Standartmäßig für alle Nachichten, Anrufe und Gruppenchats mit max. 5 Teilnehmern, [Quelle1](https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html) 6.10.2026 15:20; [Quelle2](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/wie-sicher-ist-der-messenger-signal-wirklich) 7.10.2026 15:17
+- **Umgang mit persönlichen Daten / Welche Daten werden über mich gesammelt, wie lange werden diese Daten über mich gespeichert und werden sie eventuell weiter verkauft?:** Signal sammelt keine Metadaten, auch keine Statusinformationen werden gesammelt, [Quelle1](https://www.datenschutz.org/signal/) 7.10.2026 15:24
+- **Finanzierung / Welchen Einfluss hat die Finanzierung auf meine Privatsphäre?:** Bei Signal handelt es sich um eine gemeinnützige Stiftung (Non Profit) daher werden keine Daten über mich gesammelt, [Quelle1](https://www.datenschutz.org/signal/) 7.10.2026 15:27
 - **Quellen:** [Titel, Anbieter oder Autor](https://beispiel.de), abgerufen am [Datum]
 - **Stand der Angabe:** [Veröffentlichungs-, Änderungs- oder Inkrafttretensdatum, falls wichtig]
