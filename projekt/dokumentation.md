@@ -24,7 +24,18 @@ Messengerdienst Signal ausgewählt, zu Prüffragen recherchiert, recherche.md au
 Gelernt: Signal Verschlüsselt E2E, der Quellcode ist offen einsehbar, keine Metadaten Speicherung, Finanzierung durch gemeinnützige Stiftung
 
 Quelle:
-[Verschlüsselung Signal](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/wie-sicher-ist-der-messenger-signal-wirklich) abgerufen am 7.10.2026 15:17;
-[Datenspeicherung und Finanzierung Signal](https://www.datenschutz.org/signal/) abgerufen am 7.10.2026 15:24
+[Verschlüsselung Signal](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/wie-sicher-ist-der-messenger-signal-wirklich), abgerufen am 7.10.2026 15:17;
+[Datenspeicherung und Finanzierung Signal](https://www.datenschutz.org/signal/), abgerufen am 7.10.2026 15:24
 
 Stand: Recherche.md weiter ausgefüllt, weitere Recherchen zu Definition Metadaten, Signal Protokoll, E2EE, Non Profit
+
+## 11.10.2026
+
+Fachbegriff herrausgearbeitet
+
+Gelernt: Erklärung von Fachbegriffen herrausgesucht
+
+Quelle:
+[DSVGO](https://www.dataproofed.de/dsgvo-einfach-erklaert-datenschutzgrundverordnung/), abgerufen am 11.10.2026 14:02; [Metadaten](https://www.ibm.com/de-de/think/topics/metadata), abgerufen am 11.10.2026 14:08; [Ende-zu-Ende Verschlüsselung](https://eperi.com/de/docs/ende-zu-ende-verschlusselung/), abgerufen am 11.10.2026 14:19
+
+Stand: 3 Begriffe geklärt, Recherche.md ausgefüllt
