@@ -30,3 +30,14 @@
 - **Finanzierung / Welchen Einfluss hat die Finanzierung auf meine Privatsphäre?:** Bei Signal handelt es sich um eine gemeinnützige Stiftung (Non Profit) daher werden keine Daten über mich gesammelt, [Quelle1](https://www.datenschutz.org/signal/) 7.10.2026 15:27
 - **Quellen:** [Titel, Anbieter oder Autor](https://beispiel.de), abgerufen am [Datum]
 - **Stand der Angabe:** [Veröffentlichungs-, Änderungs- oder Inkrafttretensdatum, falls wichtig]
+
+## Erklärung Fachbegriffe
+
+- [DSVGO](https://www.dataproofed.de/dsgvo-einfach-erklaert-datenschutzgrundverordnung/) 11.10.2026 14:02
+  - DSVGO bedeutet Datenschutz-Grundverordnung. Es handelt sich um ein Gesetz das die Daten der Bürger der Europäischen Unuion schützt. Darin ist geregelt welche Daten von Unternehmen gesammelt und gespeichert werden dürfen und ob diese Daten für andere Zwecke verwendet werden dürfen.
+- [Metadaten](https://www.ibm.com/de-de/think/topics/metadata) 11.10.2026 14:08
+  - Metadaten sind Daten die einen Datensatz beschreiben wie z.B. Autor , Erstellungsdatum oder Dateiengröße. Sie erleichtern die Navigation von großen Datensätzen.
+- [Ende-zu-Ende Verschlüsselung](https://eperi.com/de/docs/ende-zu-ende-verschlusselung/) 11.10.2026 14:19
+  - Ende-zu-Ende Verschlüsselung bedeutet das die Daten bereits auf den Gerät des Absenders verschlüsselt werden, verschlüsselt übertragen werden und erst auf dem Endgerät des Empfänger entschlüsselt werden. 
+- Signal Protokoll
+- Non Profit Stiftung
