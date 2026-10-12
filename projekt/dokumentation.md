@@ -39,3 +39,14 @@ Quelle:
 [DSVGO](https://www.dataproofed.de/dsgvo-einfach-erklaert-datenschutzgrundverordnung/), abgerufen am 11.10.2026 14:02; [Metadaten](https://www.ibm.com/de-de/think/topics/metadata), abgerufen am 11.10.2026 14:08; [Ende-zu-Ende Verschlüsselung](https://eperi.com/de/docs/ende-zu-ende-verschlusselung/), abgerufen am 11.10.2026 14:19
 
 Stand: 3 Begriffe geklärt, Recherche.md ausgefüllt
+
+## 12.10.2026
+
+Weitere Fachbegriffe herrausgearbeitet
+
+Gelernt: Weitere Erklärungen von Fachbegriffen heraussgesucht und in Recherche.md geschrieben
+
+Quelle:
+[Signal Protokoll](https://www.heise.de/select/ct/2021/9/2031014491848172917), abgerufen am 12.10.2026 11:16; [Non Profit Stiftung](https://www.deutsches-stiftungszentrum.de/stiftungswissen/stiftungsformen/gemeinnuetzige-stiftung), abgerufen am 12.10.2026 11:23
+
+Stand : 2 Begriffe geklärt, Recherche.md ausgefülllt
