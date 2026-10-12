@@ -39,5 +39,7 @@
   - Metadaten sind Daten die einen Datensatz beschreiben wie z.B. Autor , Erstellungsdatum oder Dateiengröße. Sie erleichtern die Navigation von großen Datensätzen.
 - [Ende-zu-Ende Verschlüsselung](https://eperi.com/de/docs/ende-zu-ende-verschlusselung/) 11.10.2026 14:19
   - Ende-zu-Ende Verschlüsselung bedeutet das die Daten bereits auf den Gerät des Absenders verschlüsselt werden, verschlüsselt übertragen werden und erst auf dem Endgerät des Empfänger entschlüsselt werden. 
-- Signal Protokoll
-- Non Profit Stiftung
+- [Signal Protokoll](https://www.heise.de/select/ct/2021/9/2031014491848172917) 12.10.2026 11:16
+  - Das Signal-Protokoll ist ein Verfahren, das Nachrichten verschlüsselt, sodass nur der Absender und der Empfänger sie lesen können. Es wird beispielsweise bei Signal und WhatsApp verwendet, um private Nachrichten vor unbefugtem Zugriff zu schützen. [KI verwendet]
+- [Non Profit Stiftung](https://www.deutsches-stiftungszentrum.de/stiftungswissen/stiftungsformen/gemeinnuetzige-stiftung) 12.10.2026 11:23
+  - Eine Non Profit Stiftung ist eine gemeinnützige Orgnasiation die dauerhaft mit ihrem Vermögen einen gesellschaftlichen Zweck unterstützt, z.B. Wissenschaft, Bildung oder Soziales. Drei Voraussetzungen um eine Non Profit Stiftung zu werden sind: 1. Selbstlosigkeit, 2. Ausschließlichkeit und 3. Unmittelbarkeit.
