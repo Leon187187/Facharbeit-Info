@@ -47,6 +47,6 @@ Weitere Fachbegriffe herrausgearbeitet
 Gelernt: Weitere Erklärungen von Fachbegriffen heraussgesucht und in Recherche.md geschrieben
 
 Quelle:
-[Signal Protokoll](https://www.heise.de/select/ct/2021/9/2031014491848172917), abgerufen am 12.10.2026 11:16; [Non Profit Stiftung](https://www.deutsches-stiftungszentrum.de/stiftungswissen/stiftungsformen/gemeinnuetzige-stiftung), abgerufen am 12.10.2026 11:23
+[Signal Protokoll](https://www.heise.de/select/ct/2021/9/2031014491848172917), abgerufen am 12.10.2026 11:16; [Non Profit Stiftung](https://www.deutsches-stiftungszentrum.de/stiftungswissen/stiftungsformen/gemeinnuetzige-stiftung), abgerufen am 12.10.2026 11:23;[Open Source](https://www.iese.fraunhofer.de/blog/open-source-software/), abgerufen am 12.10.2026 16:10
 
-Stand : 2 Begriffe geklärt, Recherche.md ausgefülllt
+Stand : 3 Begriffe geklärt, Recherche.md ausgefülllt
