@@ -167,6 +167,44 @@ style: |
   section.overview-slide td:nth-child(3) {
     width: 25%;
   }
+  section.e2e-slide > img {
+    position: absolute;
+    top: calc(50% + 25px);
+    right: 50px;
+    width: 610px;
+    height: auto;
+    transform: translateY(-50%);
+  }
+  section.funding-slide > img {
+    position: absolute;
+    top: calc(50% + 25px);
+    right: 50px;
+    width: 610px;
+    height: auto;
+    transform: translateY(-50%);
+  }
+  section.personal-data-slide > img {
+    position: absolute;
+    top: calc(50% + 25px);
+    right: 50px;
+    width: 610px;
+    height: auto;
+    transform: translateY(-50%);
+  }
+  section.e2e-slide > .e2e-question,
+  section.personal-data-slide > .personal-data-question,
+  section.funding-slide > .funding-question {
+    position: absolute;
+    top: calc(50% - 30px);
+    left: 50px;
+    width: 500px;
+    margin: 0;
+    color: #173657;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.3;
+    transform: translateY(-50%);
+  }
 ---
 
 <!-- _class: cover -->
@@ -187,32 +225,6 @@ style: |
 
 ---
 
-<!-- _class: content-slide -->
-
-# Inhaltsangabe
-
-
----
-
-<!-- _class: content-slide definitions-slide -->
-
-# Definition Fachbegriffe
-
-- [DSVGO](https://www.dataproofed.de/dsgvo-einfach-erklaert-datenschutzgrundverordnung/)
-  - DSVGO bedeutet Datenschutz-Grundverordnung. Es handelt sich um ein Gesetz das die Daten der Bürger der Europäischen Unuion schützt. Darin ist geregelt welche Daten von Unternehmen gesammelt und gespeichert werden dürfen und ob diese Daten für andere Zwecke verwendet werden dürfen.
-- [Metadaten](https://www.ibm.com/de-de/think/topics/metadata)
-  - Metadaten sind Daten die einen Datensatz beschreiben wie z.B. Autor , Erstellungsdatum oder Dateiengröße. Sie erleichtern die Navigation von großen Datensätzen.
-- [Ende-zu-Ende Verschlüsselung](https://eperi.com/de/docs/ende-zu-ende-verschlusselung/)
-  - Ende-zu-Ende Verschlüsselung bedeutet das die Daten bereits auf den Gerät des Absenders verschlüsselt werden, verschlüsselt übertragen werden und erst auf dem Endgerät des Empfänger entschlüsselt werden.
-- [Signal Protokoll](https://www.heise.de/select/ct/2021/9/2031014491848172917)
-  - Das Signal-Protokoll ist ein Verfahren, das Nachrichten verschlüsselt, sodass nur der Absender und der Empfänger sie lesen können. Es wird beispielsweise bei Signal und WhatsApp verwendet, um private Nachrichten vor unbefugtem Zugriff zu schützen. [KI verwendet]
-- [Non Profit Stiftung](https://www.deutsches-stiftungszentrum.de/stiftungswissen/stiftungsformen/gemeinnuetzige-stiftung)
-  - Eine Non Profit Stiftung ist eine gemeinnützige Orgnasiation die dauerhaft mit ihrem Vermögen einen gesellschaftlichen Zweck unterstützt, z.B. Wissenschaft, Bildung oder Soziales. Drei Voraussetzungen um eine Non Profit Stiftung zu werden sind: 1. Selbstlosigkeit, 2. Ausschließlichkeit und 3. Unmittelbarkeit.
-- [Open Source](https://www.iese.fraunhofer.de/blog/open-source-software/)
-  - Open Source bedeutet, dass der Quellcode der Software öffentlich einsehbar ist und ihn daher jeder für seine eigenen Zwecke verwenden kann.
-
----
-
 <!-- _class: content-slide overview-slide -->
 
 # Überblick über WhatsApp, Telegram und Signal
@@ -222,4 +234,39 @@ style: |
 | [WhatsApp](https://www.dr-datenschutz.de/die-ende-zu-ende-verschluesselung-bei-whatsapp/) | Seit 2016 standardmäßig für alle Nachrichten und Anrufe | Nicht Open Source |
 | [Telegram](https://metricool.com/de/telegram-sicherheit-ein-check-deiner-kommunikation/#Ende-zu-Ende-Verschluesselung_bei_geheimen_Chats) | Nicht standardmäßig, nur bei geheimen Chats | Teilweise Open Source |
 | [Signal](https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html) | Standardmäßig für Nachrichten, Anrufe und Gruppenchats mit maximal 5 Teilnehmern | Open Source |
+---
+<!-- _class: content-slide e2e-slide -->
+
+# 1. Kriterium: Ende-zu-Ende Verschlüsselung 
+
+<img src="bilder/e2e.png" alt="Darstellung der Kommunikation mit und ohne Ende-zu-Ende-Verschlüsselung">
+
+<p class="e2e-question">Bietet der Dienst standardmäßig Ende-zu-Ende-Verschlüsselung an und welche Nachrichten werden verschlüsselt?</p>
+
+---
+<!-- _class: content-slide personal-data-slide -->
+
+# 2. Kriterium: Umgang mit persönlichen Daten
+
+<p class="personal-data-question">Welche Daten werden über mich gesammelt, wie lange werden sie gespeichert und werden sie eventuell weiterverkauft?</p>
+
+<img src="bilder/datenschutz.png" alt="Symbol für den Schutz persönlicher Daten">
+
+---
+
+<!-- _class: content-slide funding-slide -->
+
+# 3. Kriterium: Finanzierung
+
+<p class="funding-question">Welchen Einfluss hat die Finanzierung auf meine Privatsphäre?</p>
+
+<img src="bilder/moneten.png" alt="Geld als Symbol für die Finanzierung">
+
+---
+<!-- _class: content-slide -->
+
+# Ausgewählter Dienst: Signal
+
+
+
 ---
