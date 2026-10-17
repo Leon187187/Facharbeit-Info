@@ -267,6 +267,44 @@ style: |
 
 # Ausgewählter Dienst: Signal
 
+1. **Ende-zu-Ende Verschlüsselung:**
+- Standartmäßig für alle Nachichten, Anrufe und Gruppenchats mit max. 5 Teilnehmern 
+- Basierend auf dem Signal Protokoll
+- Double Ratchet, d.h. Signal tauscht nach jeder versendeten Nachicht die Schlösser
+- Verschlüsselung lässt sich sogar nicht durch Quantencomputer knacken
+- Man in the middle
+
+---
+<!-- _class: content-slide -->
+
+2. **Umgang mit persönlichen Daten:**
+- Folgende Metadaten werden von Signal bis zur Löschung der App gespeichert:
+  - Datum- und Uhrzeit der Kontoerstellung
+  - Tag der letzten Verbindung zum Signal Server
+  - Telefonnummer
+  - Temporäre Nachichten, solange sie nicht versendet werden können
+
+---
+<!-- _class: content-slide -->
+
+3. **Finanzierung:**
+- Signal ist eine gemeinnützige Non Profit Stiftung "Signal Technology Foundation"
+- Schaltet keine Werbung, nutzt keine Tracker, verkauft keine Nutzerdaten
+- Finanziert sich durch frewillige Spenden z.B. durch das Spendenabo in der App
+- Bietet kostenpflichtige Zusatzfunktionen an z.B. Cloudbackups
 
 
 ---
+
+<!-- _class: content-slide -->
+
+# Fazit
+
+Ich persönlich würde mich für die Nutzung des Messengers Signal entscheiden, da er meiner Meinung nach durch das Signal Protokoll die beste Verschlüsselung meiner Nachrichten bietet. Ausserdem gefällt mir, dass Signal nur sehr wenige Metadaten speichert so können meine Daten nicht durch Datenleckes in die falschen Hände geraten. Auch finde ich gut, dass es sich bei Signal um eine gemeinnützige Stiftung handelt, die anders als z.B. WhatsApp keinen Gewinn erzielen muss und daher nicht auf Werbung zurück greift oder meine Nutzerdaten verkauft.
+
+---
+
+<!-- _class: content-slide -->
+
+# Quellen
+

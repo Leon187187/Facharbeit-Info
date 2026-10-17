@@ -72,3 +72,14 @@ Quelle:
 [e2e.png](https://www.expressvpn.com/de/blog/ende-zu-ende-verschlusselung/), abgerufen am 16.10.2026 16:44; [moneten.png](https://www.hartvannederland.nl/advies-en-tips/kopen-besparen/artikelen/banken-gaan-minder-vragen-stellen-bij-gebruik-van-contant-geld), abgerufen am 16.10.2026 16:45; [datenschutz.png](https://www.bild.de/digital/internet/internet/werbung-mit-persoenlichen-daten-signal-zeigt-was-facebook-ueber-uns-weiss-76291690.bild.html), abgerufen am 16.10.2026 16:46;
 
 Stand: Praesentation.md Folie 1-6
+
+## 17.10.2026
+
+Präsentation Folie 6-9 erstellt und Kriteren ausgewertet bzw. Prüffragen auf Signal angewendet
+
+Gelernt: Double Ratchet Verschlüsselung
+
+Quellen:
+Morgen verlinken
+
+Stand: Fazit geschrieben, Belege für einige Punkte müssen noch herrausgesucht werden
