@@ -11,7 +11,7 @@
 |------------|-----------------------------------------------------------------------|------------------------------|----------------------|
 | WhatsApp | Seit 2016 standartmäßig für alle Nachichten und Anrufe  | nicht Open Source | [https://www.dr-datenschutz.de/die-ende-zu-ende-verschluesselung-bei-whatsapp/, 6.10.2026 15:07, https://reset.org/messenger-open-source-und-ende-zu-ende-verschluesselt-das-sind-die-sicheren-alternativen-zu-whatsapp/, 6.10.2026 15:27]      |
 | Telegram | Nicht standartmäßig, nur bei geheimen Chats | teilweise Open Source | [https://metricool.com/de/telegram-sicherheit-ein-check-deiner-kommunikation/#Ende-zu-Ende-Verschluesselung_bei_geheimen_Chats, 6.10.2026 15:14, https://telegram.org/apps, 6.10.2026 15:24]      |
-| Signal | Standartmäßig für alle Nachichten, Anrufe und Gruppenchats mit max. 5 Teilnehmern | Open Source | [https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html, 6.10.2026 15:20]      |
+| Signal | Standartmäßig für alle Nachichten, Anrufe und Gruppenchats| Open Source | [https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html, 6.10.2026 15:20]      |
 
 ## Meine drei Kriterien
 

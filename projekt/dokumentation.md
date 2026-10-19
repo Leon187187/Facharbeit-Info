@@ -83,3 +83,15 @@ Quellen:
 Morgen verlinken
 
 Stand: Fazit geschrieben, Belege für einige Punkte müssen noch herrausgesucht werden
+
+## 19.10.2026
+
+Weitere Quellen für Präsentation herrausgesucht und analysiert
+
+Gelernt: Zero-Knowledge-Policy
+
+Quellen:
+[Verschlüsselung lässt sich sogar nicht durch Quantencomputer knacken](https://www.heise.de/news/Signal-sichert-seine-Chats-gegen-Quantencomputer-10717838.html), abgerufen am 19.10.2026 13:54;
+[Double Ratchet, d.h. Signal erneuert für jede versendete Nachricht den Schlüssel und alte Schlüssel werden gelöscht](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/messenger.pdf?__blob=publicationFile&v=8), abgerufen am 19.10.2026 13:55; [Metadaten](https://www.tagesschau.de/signal-messenger-sicherheit-usa-regierung-trump-100.html), abgerufen am 19.10.2026 13:58; [Bietet kostenpflichtige Zusatzfunktionen an z.B. Cloudbackups](https://www.golem.de/news/messenger-app-signal-erhaelt-cloud-back-up-abo-startet-2509-199902.html), abgerufen am 19.10.2026 13:59
+
+Stand: Weitere Belege

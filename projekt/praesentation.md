@@ -115,7 +115,7 @@ style: |
     width: calc(100% - 80px);
     table-layout: fixed;
     border-collapse: separate;
-    border-spacing: 0 12px;
+    border-spacing: 0 10px;
     color: #173657;
     font-size: 20px;
     line-height: 1.3;
@@ -131,6 +131,7 @@ style: |
     color: #ffffff;
     font-size: 19px;
     letter-spacing: 0.02em;
+    border-bottom: 3px solid #5c91ca;
   }
   section.overview-slide th:first-child {
     border-radius: 12px 0 0 12px;
@@ -139,19 +140,24 @@ style: |
     border-radius: 0 12px 12px 0;
   }
   section.overview-slide tbody tr {
-    background-color: rgba(255, 255, 255, 0.78);
+    background-color: rgba(255, 255, 255, 0.88);
+    box-shadow: 0 4px 12px rgba(23, 54, 87, 0.12);
+  }
+  section.overview-slide tbody tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.72);
   }
   section.overview-slide tbody td:first-child {
     border-radius: 12px 0 0 12px;
     color: #173657;
     font-size: 22px;
+    font-weight: bold;
   }
   section.overview-slide tbody td:last-child {
     border-radius: 0 12px 12px 0;
   }
-  section.overview-slide tbody td:first-child a {
-    color: #173657;
-    font-weight: bold;
+  section.overview-slide tbody td a {
+    color: #235f9e;
+    font-weight: 600;
     text-decoration: underline;
     text-underline-offset: 3px;
   }
@@ -231,9 +237,9 @@ style: |
 
 | Dienst | Ende-zu-Ende-Verschlüsselung | Quellcode |
 | --- | --- | --- |
-| [WhatsApp](https://www.dr-datenschutz.de/die-ende-zu-ende-verschluesselung-bei-whatsapp/) | Seit 2016 standardmäßig für alle Nachrichten und Anrufe | Nicht Open Source |
-| [Telegram](https://metricool.com/de/telegram-sicherheit-ein-check-deiner-kommunikation/#Ende-zu-Ende-Verschluesselung_bei_geheimen_Chats) | Nicht standardmäßig, nur bei geheimen Chats | Teilweise Open Source |
-| [Signal](https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html) | Standardmäßig für Nachrichten, Anrufe und Gruppenchats mit maximal 5 Teilnehmern | Open Source |
+| WhatsApp | [Seit 2016 standardmäßig für alle Nachrichten und Anrufe](https://www.dr-datenschutz.de/die-ende-zu-ende-verschluesselung-bei-whatsapp/) | [Nicht Open Source](https://reset.org/messenger-open-source-und-ende-zu-ende-verschluesselt-das-sind-die-sicheren-alternativen-zu-whatsapp/) |
+| Telegram | [Nicht standardmäßig, nur bei geheimen Chats](https://metricool.com/de/telegram-sicherheit-ein-check-deiner-kommunikation/#Ende-zu-Ende-Verschluesselung_bei_geheimen_Chats) | [Teilweise Open Source](https://telegram.org/apps) |
+| Signal | [Standardmäßig für Nachrichten, Anrufe und Gruppenchats](https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html) | [Open Source](https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html) |
 ---
 <!-- _class: content-slide e2e-slide -->
 
@@ -268,21 +274,22 @@ style: |
 # Ausgewählter Dienst: Signal
 
 1. **Ende-zu-Ende Verschlüsselung:**
-- Standartmäßig für alle Nachichten, Anrufe und Gruppenchats mit max. 5 Teilnehmern 
-- Basierend auf dem Signal Protokoll
-- Double Ratchet, d.h. Signal tauscht nach jeder versendeten Nachicht die Schlösser
-- Verschlüsselung lässt sich sogar nicht durch Quantencomputer knacken
-- Man in the middle
+- [Standartmäßig für alle Nachichten, Anrufe und Gruppenchats](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/wie-sicher-ist-der-messenger-signal-wirklich)
+- [Basierend auf dem Signal Protokoll](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/wie-sicher-ist-der-messenger-signal-wirklich)
+- [Double Ratchet, d.h. Signal erneuert für jede versendete Nachricht den Schlüssel und alte Schlüssel werden gelöscht](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/messenger.pdf?__blob=publicationFile&v=8)
+- [Verschlüsselung lässt sich sogar nicht durch Quantencomputer knacken](https://www.heise.de/news/Signal-sichert-seine-Chats-gegen-Quantencomputer-10717838.html)
+
 
 ---
 <!-- _class: content-slide -->
 
 2. **Umgang mit persönlichen Daten:**
-- Folgende Metadaten werden von Signal bis zur Löschung der App gespeichert:
+- Signal vertritt Zero-Knowledge-Policy, daher werden nur folgende [Metadaten](https://www.tagesschau.de/signal-messenger-sicherheit-usa-regierung-trump-100.html) bis zur Löschung der App gespeichert:
   - Datum- und Uhrzeit der Kontoerstellung
   - Tag der letzten Verbindung zum Signal Server
   - Telefonnummer
-  - Temporäre Nachichten, solange sie nicht versendet werden können
+  - Kontaktdaten bei Einverständnis
+- Temporäre Nachrichten werden gespeichert, solange sie nicht versendet werden können
 
 ---
 <!-- _class: content-slide -->
@@ -291,7 +298,7 @@ style: |
 - Signal ist eine gemeinnützige Non Profit Stiftung "Signal Technology Foundation"
 - Schaltet keine Werbung, nutzt keine Tracker, verkauft keine Nutzerdaten
 - Finanziert sich durch frewillige Spenden z.B. durch das Spendenabo in der App
-- Bietet kostenpflichtige Zusatzfunktionen an z.B. Cloudbackups
+- [Bietet kostenpflichtige Zusatzfunktionen an z.B. Cloudbackups](https://www.golem.de/news/messenger-app-signal-erhaelt-cloud-back-up-abo-startet-2509-199902.html)
 
 
 ---
