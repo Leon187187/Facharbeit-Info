@@ -95,3 +95,14 @@ Quellen:
 [Double Ratchet, d.h. Signal erneuert für jede versendete Nachricht den Schlüssel und alte Schlüssel werden gelöscht](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/messenger.pdf?__blob=publicationFile&v=8), abgerufen am 19.10.2026 13:55; [Metadaten](https://www.tagesschau.de/signal-messenger-sicherheit-usa-regierung-trump-100.html), abgerufen am 19.10.2026 13:58; [Bietet kostenpflichtige Zusatzfunktionen an z.B. Cloudbackups](https://www.golem.de/news/messenger-app-signal-erhaelt-cloud-back-up-abo-startet-2509-199902.html), abgerufen am 19.10.2026 13:59
 
 Stand: Weitere Belege
+
+## 21.10.2026
+
+Präsentation beendet und überarbeitet, Quellen hinterlegt
+
+Gelernt: Signal ist DSVGO konform
+
+Quellen:
+["Signal Technology Foundation"](https://projects.propublica.org/nonprofits/organizations/824506840), abgerufen am 21.10.2026 13:43; [Schaltet keine Werbung, nutzt keine Tracker, verkauft keine Nutzerdaten](https://www.chip.de/news/Nach-Pannen-in-den-USA-Das-muessen-Signal-Nutzer-jetzt-wissen_185891159.html),abgerufen am 21.10.2026 13:47; [Bietet kostenpflichtige Zusatzfunktionen an z.B. Cloudbackups](https://www.golem.de/news/messenger-app-signal-erhaelt-cloud-back-up-abo-startet-2509-199902.html),abgerufen am 21.10.2026 13:51
+
+Stand: Praesentation.md fertig bis auf ggf. überarbeitung

@@ -274,7 +274,7 @@ style: |
 # Ausgewählter Dienst: Signal
 
 1. **Ende-zu-Ende Verschlüsselung:**
-- [Standartmäßig für alle Nachichten, Anrufe und Gruppenchats](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/wie-sicher-ist-der-messenger-signal-wirklich)
+- [Standardmäßig für alle Nachrichten, Anrufe und Gruppenchats](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/wie-sicher-ist-der-messenger-signal-wirklich)
 - [Basierend auf dem Signal Protokoll](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/wie-sicher-ist-der-messenger-signal-wirklich)
 - [Double Ratchet, d.h. Signal erneuert für jede versendete Nachricht den Schlüssel und alte Schlüssel werden gelöscht](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/messenger.pdf?__blob=publicationFile&v=8)
 - [Verschlüsselung lässt sich sogar nicht durch Quantencomputer knacken](https://www.heise.de/news/Signal-sichert-seine-Chats-gegen-Quantencomputer-10717838.html)
@@ -290,14 +290,16 @@ style: |
   - Telefonnummer
   - Kontaktdaten bei Einverständnis
 - Temporäre Nachrichten werden gespeichert, solange sie nicht versendet werden können
+- [Signal folgt den Vorgaben der Datenschutz-Vorgaben der DSVGO](https://www.datenschutz.org/signal/)
 
 ---
 <!-- _class: content-slide -->
 
 3. **Finanzierung:**
-- Signal ist eine gemeinnützige Non Profit Stiftung "Signal Technology Foundation"
-- Schaltet keine Werbung, nutzt keine Tracker, verkauft keine Nutzerdaten
-- Finanziert sich durch frewillige Spenden z.B. durch das Spendenabo in der App
+- Signal ist eine gemeinnützige Non Profit Stiftung ["Signal Technology Foundation"](https://projects.propublica.org/nonprofits/organizations/824506840)
+  - Dies verhindert einen Aufkauf durch einen Tech-Giganten wie z.B. Meta oder eine Umwandlung in ein werbebasiertes Geschäftsmodell
+- [Schaltet keine Werbung, nutzt keine Tracker, verkauft keine Nutzerdaten](https://www.chip.de/news/Nach-Pannen-in-den-USA-Das-muessen-Signal-Nutzer-jetzt-wissen_185891159.html)
+- Finanziert sich durch frewillige Spenden z.B. [durch einmalige Spenden oder das Spendenabo in der App](https://aboutsignal.com/de/news/neues-design-fur-die-einmaligen-spendenabzeichen-von-signal/)
 - [Bietet kostenpflichtige Zusatzfunktionen an z.B. Cloudbackups](https://www.golem.de/news/messenger-app-signal-erhaelt-cloud-back-up-abo-startet-2509-199902.html)
 
 
@@ -309,9 +311,19 @@ style: |
 
 Ich persönlich würde mich für die Nutzung des Messengers Signal entscheiden, da er meiner Meinung nach durch das Signal Protokoll die beste Verschlüsselung meiner Nachrichten bietet. Ausserdem gefällt mir, dass Signal nur sehr wenige Metadaten speichert so können meine Daten nicht durch Datenleckes in die falschen Hände geraten. Auch finde ich gut, dass es sich bei Signal um eine gemeinnützige Stiftung handelt, die anders als z.B. WhatsApp keinen Gewinn erzielen muss und daher nicht auf Werbung zurück greift oder meine Nutzerdaten verkauft.
 
+Daher bietet der Signal Messenger den besten Schutz für meine privaten Daten!
+
 ---
 
 <!-- _class: content-slide -->
 
 # Quellen
+
+- WhatsApp: [Ende-zu-Ende-Verschlüsselung](https://www.dr-datenschutz.de/die-ende-zu-ende-verschluesselung-bei-whatsapp/), [Quellcode](https://reset.org/messenger-open-source-und-ende-zu-ende-verschluesselt-das-sind-die-sicheren-alternativen-zu-whatsapp/)
+- Telegram: [Verschlüsselung bei geheimen Chats](https://metricool.com/de/telegram-sicherheit-ein-check-deiner-kommunikation/#Ende-zu-Ende-Verschluesselung_bei_geheimen_Chats), [Apps/Quellcode](https://telegram.org/apps)
+- Signal: [Datenschutz & Sicherheit](https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html), [Signal-Check](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/wie-sicher-ist-der-messenger-signal-wirklich), [Datenspeicherung & Finanzierung](https://www.datenschutz.org/signal/)
+- Fachbegriffe: [DSGVO](https://www.dataproofed.de/dsgvo-einfach-erklaert-datenschutzgrundverordnung/), [Metadaten](https://www.ibm.com/de-de/think/topics/metadata), [Ende-zu-Ende-Verschlüsselung](https://eperi.com/de/docs/ende-zu-ende-verschlusselung/), [Signal Protokoll](https://www.heise.de/select/ct/2021/9/2031014491848172917), [Open Source](https://www.iese.fraunhofer.de/blog/open-source-software/), [Gemeinnützige Stiftung](https://www.deutsches-stiftungszentrum.de/stiftungswissen/stiftungsformen/gemeinnuetzige-stiftung)
+- Sicherheitsbelege: [Quantencomputer-Schutz](https://www.heise.de/news/Signal-sichert-seine-Chats-gegen-Quantencomputer-10717838.html), [BSI DVS-Bericht](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/messenger.pdf?__blob=publicationFile&v=8), [Metadaten/Tagesschau](https://www.tagesschau.de/signal-messenger-sicherheit-usa-regierung-trump-100.html), [Cloud-Backups](https://www.golem.de/news/messenger-app-signal-erhaelt-cloud-back-up-abo-startet-2509-199902.html)
+- Finanzierung & Datenschutz: [Signal Technology Foundation](https://projects.propublica.org/nonprofits/organizations/824506840), [Keine Werbung, keine Tracker, keine Nutzerdatenverkauf](https://www.chip.de/news/Nach-Pannen-in-den-USA-Das-muessen-Signal-Nutzer-jetzt-wissen_185891159.html), [Spendenabzeichen](https://aboutsignal.com/de/news/neues-design-fur-die-einmaligen-spendenabzeichen-von-signal/)
+- Bildquellen: [E2E-Illustration](https://www.expressvpn.com/de/blog/ende-zu-ende-verschlusselung/), [Geldsymbol](https://www.hartvannederland.nl/advies-en-tips/kopen-besparen/artikelen/banken-gaan-minder-vragen-stellen-bij-gebruik-van-contant-geld), [Datenschutzsymbol](https://www.bild.de/digital/internet/internet/werbung-mit-persoenlichen-daten-signal-zeigt-was-facebook-ueber-uns-weiss-76291690.bild.html)
 
