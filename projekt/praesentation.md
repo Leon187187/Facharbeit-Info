@@ -1,10 +1,20 @@
 ---
 marp: true
 paginate: true
+footer: "Leon Weber, Klasse 10c"
 style: |
   section {
     padding: 40px;
     position: relative;
+  }
+  footer {
+    position: absolute;
+    right: 40px;
+    bottom: 18px;
+    color: rgba(23, 54, 87, 0.8);
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
   }
   section.cover {
     position: relative;
@@ -82,6 +92,22 @@ style: |
     padding-bottom: 24px;
     border-bottom: 4px solid rgba(255, 255, 255, 0.8);
     text-shadow: 0 2px 0 rgba(255, 255, 255, 0.22);
+  }
+  section.content-slide > h1 + ul,
+  section.content-slide > h1 + ol {
+    margin-top: 120px;
+  }
+  section.sources-slide > ul {
+    columns: 2;
+    column-gap: 36px;
+    margin: 132px 0 0;
+    padding-left: 28px;
+    font-size: 22px;
+    line-height: 1.3;
+  }
+  section.sources-slide li {
+    break-inside: avoid;
+    margin-bottom: 16px;
   }
   section.definitions-slide > ul {
     columns: 2;
@@ -225,8 +251,6 @@ style: |
 
 # Welcher Messengerdienst bietet den besten Schutz für meine privaten Daten?
 
-<p class="autor">Leon Weber</p>
-
 </div>
 
 ---
@@ -315,15 +339,14 @@ Daher bietet der Signal Messenger den besten Schutz für meine privaten Daten!
 
 ---
 
-<!-- _class: content-slide -->
+<!-- _class: content-slide sources-slide -->
 
 # Quellen
 
-- WhatsApp: [Ende-zu-Ende-Verschlüsselung](https://www.dr-datenschutz.de/die-ende-zu-ende-verschluesselung-bei-whatsapp/), [Quellcode](https://reset.org/messenger-open-source-und-ende-zu-ende-verschluesselt-das-sind-die-sicheren-alternativen-zu-whatsapp/)
-- Telegram: [Verschlüsselung bei geheimen Chats](https://metricool.com/de/telegram-sicherheit-ein-check-deiner-kommunikation/#Ende-zu-Ende-Verschluesselung_bei_geheimen_Chats), [Apps/Quellcode](https://telegram.org/apps)
-- Signal: [Datenschutz & Sicherheit](https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html), [Signal-Check](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/wie-sicher-ist-der-messenger-signal-wirklich), [Datenspeicherung & Finanzierung](https://www.datenschutz.org/signal/)
-- Fachbegriffe: [DSGVO](https://www.dataproofed.de/dsgvo-einfach-erklaert-datenschutzgrundverordnung/), [Metadaten](https://www.ibm.com/de-de/think/topics/metadata), [Ende-zu-Ende-Verschlüsselung](https://eperi.com/de/docs/ende-zu-ende-verschlusselung/), [Signal Protokoll](https://www.heise.de/select/ct/2021/9/2031014491848172917), [Open Source](https://www.iese.fraunhofer.de/blog/open-source-software/), [Gemeinnützige Stiftung](https://www.deutsches-stiftungszentrum.de/stiftungswissen/stiftungsformen/gemeinnuetzige-stiftung)
-- Sicherheitsbelege: [Quantencomputer-Schutz](https://www.heise.de/news/Signal-sichert-seine-Chats-gegen-Quantencomputer-10717838.html), [BSI DVS-Bericht](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/messenger.pdf?__blob=publicationFile&v=8), [Metadaten/Tagesschau](https://www.tagesschau.de/signal-messenger-sicherheit-usa-regierung-trump-100.html), [Cloud-Backups](https://www.golem.de/news/messenger-app-signal-erhaelt-cloud-back-up-abo-startet-2509-199902.html)
-- Finanzierung & Datenschutz: [Signal Technology Foundation](https://projects.propublica.org/nonprofits/organizations/824506840), [Keine Werbung, keine Tracker, keine Nutzerdatenverkauf](https://www.chip.de/news/Nach-Pannen-in-den-USA-Das-muessen-Signal-Nutzer-jetzt-wissen_185891159.html), [Spendenabzeichen](https://aboutsignal.com/de/news/neues-design-fur-die-einmaligen-spendenabzeichen-von-signal/)
-- Bildquellen: [E2E-Illustration](https://www.expressvpn.com/de/blog/ende-zu-ende-verschlusselung/), [Geldsymbol](https://www.hartvannederland.nl/advies-en-tips/kopen-besparen/artikelen/banken-gaan-minder-vragen-stellen-bij-gebruik-van-contant-geld), [Datenschutzsymbol](https://www.bild.de/digital/internet/internet/werbung-mit-persoenlichen-daten-signal-zeigt-was-facebook-ueber-uns-weiss-76291690.bild.html)
-
+- WhatsApp: [Ende-zu-Ende-Verschlüsselung](https://www.dr-datenschutz.de/die-ende-zu-ende-verschluesselung-bei-whatsapp/), abgerufen am 6.10.2026 15:07; [Quellcode](https://reset.org/messenger-open-source-und-ende-zu-ende-verschluesselt-das-sind-die-sicheren-alternativen-zu-whatsapp/), abgerufen am 6.10.2026 15:27
+- Telegram: [Verschlüsselung bei geheimen Chats](https://metricool.com/de/telegram-sicherheit-ein-check-deiner-kommunikation/#Ende-zu-Ende-Verschluesselung_bei_geheimen_Chats), abgerufen am 6.10.2026 15:14; [Apps/Quellcode](https://telegram.org/apps), abgerufen am 6.10.2026 15:24
+- Signal: [Datenschutz & Sicherheit](https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html), abgerufen am 6.10.2026 15:20; [Signal-Check](https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/wie-sicher-ist-der-messenger-signal-wirklich), abgerufen am 7.10.2026 15:17; [Datenspeicherung & Finanzierung](https://www.datenschutz.org/signal/), abgerufen am 7.10.2026 15:24
+- Fachbegriffe: [DSGVO](https://www.dataproofed.de/dsgvo-einfach-erklaert-datenschutzgrundverordnung/), abgerufen am 11.10.2026 14:02; [Metadaten](https://www.ibm.com/de-de/think/topics/metadata), abgerufen am 11.10.2026 14:08; [Ende-zu-Ende-Verschlüsselung](https://eperi.com/de/docs/ende-zu-ende-verschlusselung/), abgerufen am 11.10.2026 14:19; [Signal Protokoll](https://www.heise.de/select/ct/2021/9/2031014491848172917), abgerufen am 12.10.2026 11:16; [Open Source](https://www.iese.fraunhofer.de/blog/open-source-software/), abgerufen am 12.10.2026 16:10; [Gemeinnützige Stiftung](https://www.deutsches-stiftungszentrum.de/stiftungswissen/stiftungsformen/gemeinnuetzige-stiftung), abgerufen am 12.10.2026 11:23
+- Sicherheitsbelege: [Quantencomputer-Schutz](https://www.heise.de/news/Signal-sichert-seine-Chats-gegen-Quantencomputer-10717838.html), abgerufen am 19.10.2026 13:54; [BSI DVS-Bericht](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/messenger.pdf?__blob=publicationFile&v=8), abgerufen am 19.10.2026 13:55; [Metadaten/Tagesschau](https://www.tagesschau.de/signal-messenger-sicherheit-usa-regierung-trump-100.html), abgerufen am 19.10.2026 13:58; [Cloud-Backups](https://www.golem.de/news/messenger-app-signal-erhaelt-cloud-back-up-abo-startet-2509-199902.html), abgerufen am 19.10.2026 13:59
+- Finanzierung & Datenschutz: [Signal Technology Foundation](https://projects.propublica.org/nonprofits/organizations/824506840), abgerufen am 21.10.2026 13:43; [Keine Werbung, keine Tracker, keine Nutzerdatenverkauf](https://www.chip.de/news/Nach-Pannen-in-den-USA-Das-muessen-Signal-Nutzer-jetzt-wissen_185891159.html), abgerufen am 21.10.2026 13:47; [Spendenabzeichen](https://aboutsignal.com/de/news/neues-design-fur-die-einmaligen-spendenabzeichen-von-signal/), abgerufen am 21.10.2026 13:51
+- Bildquellen: [E2E-Illustration](https://www.expressvpn.com/de/blog/ende-zu-ende-verschlusselung/), abgerufen am 16.10.2026 16:44; [Geldsymbol](https://www.hartvannederland.nl/advies-en-tips/kopen-besparen/artikelen/banken-gaan-minder-vragen-stellen-bij-gebruik-van-contant-geld), abgerufen am 16.10.2026 16:45; [Datenschutzsymbol](https://www.bild.de/digital/internet/internet/werbung-mit-persoenlichen-daten-signal-zeigt-was-facebook-ueber-uns-weiss-76291690.bild.html), abgerufen am 16.10.2026 16:46
