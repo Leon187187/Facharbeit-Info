@@ -106,3 +106,15 @@ Quellen:
 ["Signal Technology Foundation"](https://projects.propublica.org/nonprofits/organizations/824506840), abgerufen am 21.10.2026 13:43; [Schaltet keine Werbung, nutzt keine Tracker, verkauft keine Nutzerdaten](https://www.chip.de/news/Nach-Pannen-in-den-USA-Das-muessen-Signal-Nutzer-jetzt-wissen_185891159.html),abgerufen am 21.10.2026 13:47; [Bietet kostenpflichtige Zusatzfunktionen an z.B. Cloudbackups](https://www.golem.de/news/messenger-app-signal-erhaelt-cloud-back-up-abo-startet-2509-199902.html),abgerufen am 21.10.2026 13:51
 
 Stand: Praesentation.md fertig bis auf ggf. überarbeitung
+
+
+## 25.10.2026
+
+Fußzeile ergänzt, Abrufdatum zu den Quellen ergänzt, praesentation.pdf
+
+Gelernt: ///
+
+Quellen:
+/// Keine ///
+
+Stand: Fertig
