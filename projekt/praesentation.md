@@ -189,15 +189,19 @@ style: |
   }
   section.overview-slide th:nth-child(1),
   section.overview-slide td:nth-child(1) {
-    width: 20%;
+    width: 18%;
   }
   section.overview-slide th:nth-child(2),
   section.overview-slide td:nth-child(2) {
-    width: 55%;
+    width: 28%;
   }
   section.overview-slide th:nth-child(3),
   section.overview-slide td:nth-child(3) {
-    width: 25%;
+    width: 18%;
+  }
+  section.overview-slide th:nth-child(4),
+  section.overview-slide td:nth-child(4) {
+    width: 36%;
   }
   section.e2e-slide > img {
     position: absolute;
@@ -259,11 +263,11 @@ style: |
 
 # Überblick über WhatsApp, Telegram und Signal
 
-| Dienst | Ende-zu-Ende-Verschlüsselung | Quellcode |
-| --- | --- | --- |
-| WhatsApp | [Seit 2016 standardmäßig für alle Nachrichten und Anrufe](https://www.dr-datenschutz.de/die-ende-zu-ende-verschluesselung-bei-whatsapp/) | [Nicht Open Source](https://reset.org/messenger-open-source-und-ende-zu-ende-verschluesselt-das-sind-die-sicheren-alternativen-zu-whatsapp/) |
-| Telegram | [Nicht standardmäßig, nur bei geheimen Chats](https://metricool.com/de/telegram-sicherheit-ein-check-deiner-kommunikation/#Ende-zu-Ende-Verschluesselung_bei_geheimen_Chats) | [Teilweise Open Source](https://telegram.org/apps) |
-| Signal | [Standardmäßig für Nachrichten, Anrufe und Gruppenchats](https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html) | [Open Source](https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html) |
+| Dienst | Ende-zu-Ende Verschlüsselung | Quellcode | Worin unterscheidet er sich? |
+| --- | --- | --- | --- |
+| WhatsApp | [Seit 2016 standardmäßig für alle Nachrichten und Anrufe](https://www.dr-datenschutz.de/die-ende-zu-ende-verschluesselung-bei-whatsapp/) | [Nicht Open Source](https://reset.org/messenger-open-source-und-ende-zu-ende-verschluesselt-das-sind-die-sicheren-alternativen-zu-whatsapp/) | Immer E2E-Verschlüsselung; Quellcode nicht einsehbar |
+| Telegram | [Nicht standardmäßig, nur bei geheimen Chats](https://metricool.com/de/telegram-sicherheit-ein-check-deiner-kommunikation/#Ende-zu-Ende-Verschluesselung_bei_geheimen_Chats) | [Teilweise Open Source](https://telegram.org/apps) | Keine E2E-Verschlüsselung standardmäßig; nur Quellcode der Apps einsehbar |
+| Signal | [Standardmäßig für Nachrichten, Anrufe und Gruppenchats](https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html) | [Open Source](https://www.chip.de/ratgeber/software/datenschutz-und-sicherheit-bei-signal-das-muessen-sie-wissen_72abeec7-207c-4507-a1e9-5b4dff63f569.html) | Immer E2E-Verschlüsselung; Quellcode für jeden einsehbar |
 ---
 <!-- _class: content-slide e2e-slide -->
 

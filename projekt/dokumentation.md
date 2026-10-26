@@ -118,3 +118,14 @@ Quellen:
 /// Keine ///
 
 Stand: Fertig
+
+## 26.10.2026
+
+Tabelle kurz ergänzt um Unterschiede
+
+Gelernt: ///
+
+Quellen:
+/// Keine ///
+
+Stand: Fertig
